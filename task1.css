@@ -1,0 +1,29 @@
+.invoice{
+   background-color:gray;
+   color:white;
+}
+.payto{
+     color:red;
+     background-color:yellow;
+}
+.customer{
+      color:blue;
+      background-color:yellow;
+}
+.top{
+ color:green;
+ background-color:lightgreen;
+}
+.person1{
+  color:brown;
+  backgroud-color:white;
+}
+.subtotal{
+  color:black;
+  background-color:yellow;
+}
+.grandtotal{
+  color:red;
+  background-color:lightgreen;
+  font-weight:bold;
+}
